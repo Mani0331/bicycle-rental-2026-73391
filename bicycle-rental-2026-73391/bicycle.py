@@ -6,9 +6,7 @@ in the rental shop. It inherits from the RentalItem abstract base class
 and provides functionality for borrowing, returning, pricing, and cost
 calculation.
 
-Author: [Your Full Name]
-Student Number: [Your Student Number]
-Date: October 2026
+Author: Muhammad Usman Waqar
 """
 
 from rental_item import RentalItem
