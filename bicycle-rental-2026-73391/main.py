@@ -4,9 +4,7 @@ main.py
 Driver program for the Bicycle Rental System. Demonstrates the functionality
 of the Bicycle class, including successful and unsuccessful operations.
 
-Author: [Your Full Name]
-Student Number: [Your Student Number]
-Date: October 2026
+Author:Muhammad Usman Waqar
 """
 
 from bicycle import Bicycle
