@@ -5,9 +5,7 @@ Automated unit tests for the Bicycle Rental System.
 
 Run with:  python -m unittest test_bicycle.py -v
 
-Author: [Your Full Name]
-Student Number: [Your Student Number]
-Date: October 2026
+Author:Muhammad Usman Waqar
 """
 
 import unittest
