@@ -5,9 +5,7 @@ This module defines the abstract base class RentalItem, which serves as a
 blueprint for all items that can be rented out in the shop. Any class that
 inherits from this must implement the calculate_rental_cost method.
 
-Author: [Your Full Name]
-Student Number: [Your Student Number]
-Date: October 2026
+Author:Muhammad Usman Waqar
 """
 
 from abc import ABC, abstractmethod
